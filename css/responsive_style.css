@@ -1,0 +1,311 @@
+/*navbar css*/
+
+@media(max-width: 1400px){
+
+	/*.mid-section .items{
+		
+		text-align: center;
+	}*/
+
+
+	/*sales css*/
+	.sale-section{
+		height: 750px;
+	}
+	.offers .left-offer-section{
+		height: 750px;
+	}
+
+
+
+}
+
+
+@media(max-width: 1300px){
+	/*mid-section css*/
+	.mid-section .products{
+		width: 275px;
+	}
+
+	.mid-section .products{
+		height: 360px;
+	}
+
+	/*mid-section css end*/
+
+
+}
+
+@media(max-width: 1230px){
+	
+	.banner{
+		margin-top: 77px;
+	}
+	.mid-section{
+    	margin-top: 80px;
+	}
+	.special h1{
+		font-size: 30px;
+	}
+
+
+	/*gold_jewellery css*/
+
+	.container .offer{
+    margin-top: 32px;
+
+	}
+
+	/*gold_gewellery css end*/
+
+	/*sales css*/
+	.sale-section{
+		height: 750px;
+	}
+	.offers .left-offer-section{
+		height: 750px;
+	}
+
+
+}
+
+@media(max-width: 1150px){    		 /*extra*/
+
+	.mid-section{
+    	margin-top: 74px;
+	}
+	.diamond .offer{
+    	margin-top: 74px;
+	}
+
+
+
+	/*sales css*/
+	.sale-section{
+		height: 650px;
+	}
+	.offers .left-offer-section{
+		height: 650px;
+	}
+
+	/*gift finder css start*/
+    .gf{
+        margin-top: 70px;
+    }
+
+
+
+
+
+	}
+
+@media(max-width: 1070px){
+	.banner{
+		margin-top: 0px;
+	}
+	.mid-section{
+    	margin-top: 74px;
+	}
+	.diamond .offer{
+    	margin-top: 74px;
+	}
+
+	/*gold_jewellery css*/
+
+	.container .offer{
+    margin-top: 30px;
+
+	}
+	/*gold_gewellery css end*/
+
+	/*gift finder css start*/
+    .gf{
+        margin-top: 75px;
+    }
+
+
+    /*gift finder css start*/
+    .gf{
+        margin-top: 70px;
+    }
+
+
+}
+
+
+
+@media(max-width: 1055px){    			 /*extra*/
+	.mid-section{
+    	margin-top: 70px;
+	}
+	.diamond .offer{
+    	margin-top: 70px;
+	}
+
+	/*gift finder css start*/
+    .gf{
+        margin-top: 68px;
+    }
+}
+
+
+
+
+
+
+
+
+@media(max-width: 992.5px){
+	.header .navbar-brand img{
+		width: 60px;
+		height: auto;
+	}
+
+	.banner{
+		margin-top: 68px;
+	}
+	.mid-section{
+    	margin-top: 70px;
+	}
+	.diamond .offer{
+    	margin-top: 70px;
+	}
+
+	/*gold_jewellery css*/
+
+	.container .offer{
+    margin-top: 25px;
+
+	}
+	/*gold_gewellery css end*/
+
+
+	/*sales css*/
+	.sale-section{
+		height: 500px;
+	}
+	.offers .left-offer-section{
+		height: 500px;
+	}
+
+
+
+
+	/*gift finder css start*/
+    .gf{
+        margin-top: 70px;
+    }
+
+
+
+
+
+
+
+
+}
+
+@media(max-width: 767px){
+
+	.banner{
+		margin-top: 68px;
+	}
+	.footer{
+		height: 1000px;
+	}
+
+
+	/*sales css*/
+	.sale-section{
+        height: 1200px;
+    }
+	.offers .left-offer-section{
+        float: none;
+        width: 90%;
+        margin: 0 auto;
+  		max-width: 700px;
+  		height: 100px;
+  		border-radius: 3px;
+    }
+
+    .offers .right-offer-section{
+       	float: none;
+       	width: 90%;
+     	margin: 0 auto;
+  		max-width: 700px;
+  		height: 100px;
+  		border-radius: 3px; 
+  		margin-top: 500px !important;
+
+    }
+
+	
+
+}
+
+@media(max-width: 610px){
+
+	.banner{
+		margin-top: 69px;
+	}
+
+	/*sales css*/
+	.sale-section{
+        height: 1200px;
+    }
+	.offers .left-offer-section{
+        float: none;
+        width: 90%;
+        margin: 0 auto;
+  		max-width: 700px;
+  		height: 100px;
+  		border-radius: 3px;
+    }
+
+    .offers .right-offer-section{
+       	float: none;
+       	width: 90%;
+     	margin: 0 auto;
+  		max-width: 700px;
+  		height: 100px;
+  		border-radius: 3px; 
+  		margin-top: 500px !important;
+
+    }
+
+}
+
+
+
+
+@media(max-width: 550px){
+	.sale-section{
+        height: 900px;
+    }
+
+	.offers .right-offer-section{
+		margin-top: 350px !important;
+	}
+
+
+	/*gift finder css*/
+	.gift-finder h1 {
+		font-size: 30px;
+	}
+	.gift-finder p{
+		font-size: 15px;
+	}
+
+
+}
+
+
+
+
+
+
+/*navbar css end*/
+
+
+
+
