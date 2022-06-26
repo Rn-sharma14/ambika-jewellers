@@ -80,7 +80,9 @@ p{
     line-height: normal;
     color: var(/*--text-white*/ --text-black);
 }
-
+body{
+    overflow-x: hidden;
+}
 
 
 
